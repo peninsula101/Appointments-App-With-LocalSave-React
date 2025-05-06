@@ -9,6 +9,7 @@ In this project, let's build an **Appointments App** by applying the concepts we
 <br/>
 
 ### Link: https://tvsappointment.ccbp.tech/
+### Updated Link: https://tvsuappointment.ccbp.tech/
 
 ### Design Files
 
